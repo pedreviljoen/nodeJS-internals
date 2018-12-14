@@ -15,3 +15,7 @@ git checkout <topic>
 ```
 
 There will be an index.js, demonstrating some cool stuff.
+
+# Outstanding topics
+
+Please open an issues with some descriptive information about the topic that needs to be addressed.
