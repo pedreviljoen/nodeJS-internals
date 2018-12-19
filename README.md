@@ -22,7 +22,7 @@ The following topics have branches:
 
 - [x] NodeJS Event Loop
 - [x] NodeJS Threadpool
-- [ ] NodeJS Clustering
+- [x] NodeJS Clustering
 - [ ] NodeJS Assertion testing
 - [ ] NodeJS Buffer
 - [ ] NodeJS Crypto module
