@@ -25,6 +25,9 @@ The following topics have branches:
 - [ ] NodeJS Clustering
 - [ ] NodeJS Assertion testing
 - [ ] NodeJS Buffer
+- [ ] NodeJS Crypto module
+- [ ] NodeJS Events
+- [ ] NodeJS Child Processes
 
 # Outstanding topics
 
