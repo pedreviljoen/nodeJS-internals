@@ -16,6 +16,16 @@ git checkout <topic>
 
 There will be an index.js, demonstrating some cool stuff.
 
+# Topics covered
+
+The following topics have branches:
+
+- [x] NodeJS Event Loop
+- [x] NodeJS Threadpool
+- [ ] NodeJS Clustering
+- [ ] NodeJS Assertion testing
+- [ ] NodeJS Buffer
+
 # Outstanding topics
 
 Please open an issues with some descriptive information about the topic that needs to be addressed.
