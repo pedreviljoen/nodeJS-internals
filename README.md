@@ -23,7 +23,7 @@ The following topics have branches:
 - [x] NodeJS Event Loop
 - [x] NodeJS Threadpool
 - [x] NodeJS Clustering
-- [ ] NodeJS Testing
+- [x] NodeJS Testing with Jest
 - [ ] NodeJS ZLib module
 - [ ] NodeJS Crypto module
 - [ ] NodeJS Child Processes
